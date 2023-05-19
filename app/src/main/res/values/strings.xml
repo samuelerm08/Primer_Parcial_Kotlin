@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Students App</string>
+    <string name="main_title">Students</string>
+    <string name="student_placeholder">Enter student name</string>
+    <string name="students_list">Go To List</string>
+</resources>
